@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="google_quickoffice_30_10_4000_welcomepager_content1">Google QuickOffice领先的无线中间件产品及移动信息化行业解决方案提供商，为30多家央企、10多个全球运营商、4000多家政企客户提供移动信息化服务</string>
+    <string name="_quickoffice_welcomepager_title1">欢迎使用QuickOffice</string>
+    
+    <string name="google_quickoffice_30_10_4000_welcomepager_content2">专注于企业移动应用开发已成为国内企业移动开发的主流产品和技术之一，为广大企业建设移动信息化业务，完善移动化战略服务。</string>
+    <string name="_quickoffice_welcomepager_title2">安全管理专家</string>
+    
+    <string name="google_quickoffice_30_10_4000_welcomepager_content3">面向未来，QuickOffice将持续创新，为企业移动化战略增添风采，让信息无处不在。</string>
+    <string name="_quickoffice_welcomepager_title3">让我们开始吧</string>
+    
+    
+    
+</resources>
