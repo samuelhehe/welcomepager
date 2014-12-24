@@ -10,6 +10,7 @@ import android.widget.RelativeLayout;
 import android.widget.TextView;
 
 public final class TestFragment extends Fragment {
+	
 	private static final String KEY_CONTENT = "TestFragment:Content";
 
 	public static TestFragment newInstance(String content) {

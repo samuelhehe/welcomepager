@@ -10,7 +10,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 
-public class AtyFirstLoadWelcomePage extends FragmentActivity implements
+public class AtyWelcomePager extends FragmentActivity implements
 		OnClickListener {
 
 	protected static final String TAG = "AtyFirstLoadWelcomePage";
@@ -81,7 +81,7 @@ public class AtyFirstLoadWelcomePage extends FragmentActivity implements
 			}
 			break;
 		case R.id.sys_welcomepage_bottom_start_tv:
-			Toast.makeText(AtyFirstLoadWelcomePage.this, "welcome", 1).show();
+			Toast.makeText(AtyWelcomePager.this, "welcome", 1).show();
 			break;
 		}
 
