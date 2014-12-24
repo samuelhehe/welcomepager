@@ -11,7 +11,7 @@
     <application
         android:icon="@drawable/icon"
         android:label="ViewPagerIndicator Sample" >
-        <activity android:name=".AtyFirstLoadWelcomePage"
+        <activity android:name=".AtyWelcomePager"
 			android:theme="@android:style/Theme.Light.NoTitleBar"            
              >
             <intent-filter>
