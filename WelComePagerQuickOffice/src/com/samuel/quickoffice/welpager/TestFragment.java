@@ -26,9 +26,8 @@ public final class TestFragment extends Fragment {
 		return fragment;
 	}
 
-	private String mContent = "???";
+	private String mContent = "";
 
-	@Override
 	public View onCreateView(LayoutInflater inflater, ViewGroup container,
 			Bundle savedInstanceState) {
 
